@@ -43,18 +43,20 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+
 - *2021.10* National Scholarship (Undergraduate) (Top 1%). 
-- *2020.09* National Scholarship (Undergraduate) (Top 1%). 
+- *2020.09* National Scholarship (Undergraduate) (Top 1%).  
 
 # 📖 Educations
 
 - *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing.
-- *2018.09 - 2022.06* , Undergraduate, College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing. 
-- *2015.09 - 2018.06*, Fuqing NO.1 Middle School, Fuqing, Fujian. 
+- *2018.09 - 2022.06*, Undergraduate, College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing. 
 
 # 💬 Invited Talks
+
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2022.07 - 2022.09*, [Shigao Smart Tech.], Fujian, China.
+
+- *2022.07 - 2022.09*, Shigao Smart Tech., Fujian, China.
