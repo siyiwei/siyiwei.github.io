@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). My research interests include medical robot, Model Predictive Control and Active Disturbance Rejection Control.
+I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). 
+
+My research interests include medical robot, Model Predictive Control and Active Disturbance Rejection Control.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -34,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)
+Magneto-elastic dynamics
 
 IEEE Transactions on Biomedical Engineering 
 
