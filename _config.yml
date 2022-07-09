@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwei Wu"
+title                    : "Zhiwei Wu (吴志伟)"
 description              : "Graduating from Beijing University of Chemical Technology. Focusing on medical robot, ADRC, and MPC."
-repository               : "https://github.com/WayneWu0526?tab=repositories"
+repository               : "https://github.com/WayneWu0526"
 google_scholar_stats_use_cdn : false # True
 
 # google analytics
