@@ -66,9 +66,9 @@ About to finish...
 # 🎖 Honors and Awards
 
 - *2021.10* National Scholarship (Undergraduate) (Top 1%).
-- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/a50250210255@doc)) (Top 1%).
-- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling (Secondary) (Top 3%).
-- *2020.10* National Scholarship (Undergraduate) (Top 1%).  
+- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).
+- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).
+- *2020.10* National Scholarship ([Undergraduate](https://maifile.cn/dec/d53884217302@doc)) (Top 1%).  
 
 # 📖 Educations
 
