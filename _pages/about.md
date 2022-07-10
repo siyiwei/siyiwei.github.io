@@ -19,7 +19,9 @@ redirect_from:
 
 I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). 
 
-My research interests include medical robot, Model Predictive Control and Active Disturbance Rejection Control.
+My research interests include medical robot, Model Predictive Control, and Active Disturbance Rejection Control.
+
+Please contact me via my email for any questions about MATLAB and control theory:laughing:！
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -64,8 +66,8 @@ About to finish...
 # 🎖 Honors and Awards
 
 - *2021.10* National Scholarship (Undergraduate) (Top 1%).
-- *2021.04* Mathematical Contest In Modeling (Finalist) (Top 1%).
-- *2021.10* Contemporary Undergraduate Mathematical Contest In Modeling (Secondary) (Top 3%).
+- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/a50250210255@doc)) (Top 1%).
+- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling (Secondary) (Top 3%).
 - *2020.10* National Scholarship (Undergraduate) (Top 1%).  
 
 # 📖 Educations
