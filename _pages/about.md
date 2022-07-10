@@ -43,7 +43,9 @@ Magneto-elastic dynamics
 IEEE Transactions on Biomedical Engineering 
 
 **Zhiwei Wu**, Jinhui Zhang
+
 ---
+
 About to finish...
 </div>
 </div>
