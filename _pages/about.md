@@ -53,18 +53,19 @@ About to start
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBE</div><img src='images/2022paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/2022paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Magneto-elastic rod model: A Kirchhoff rod-based three-dimensional dynamics model for real-time simulation of magnetic guidewire
 
-IEEE Transactions on Biomedical Engineering 
+Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires
 
-**Zhiwei Wu**, Siyi Wei, Ruotong Zhao, Jinhui Zhang
+|Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
+
+**Zhiwei Wu**, Siyi Wei, Ruotong Zhao, Jinhui Zhang*
 
 ---
 
-Under review
+Minor Revision
 </div>
 </div>
 
@@ -73,7 +74,7 @@ Under review
 
 [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)
 
-|IEEE Access|07-20-2021| 
+|IEEE Access|07-20-2021|IF:3.476 |Citations:2|
 
 **ZHIWEI WU**, HAOSONG PENG*, BIAO HU, AND XIAODONG FENG
 </div>
