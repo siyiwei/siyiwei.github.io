@@ -61,7 +61,7 @@ Kirchhoff rod-based three-dimensional dynamical model and real-time simulation f
 
 |Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
 
-**Zhiwei Wu**, Siyi Wei, Ruotong Zhao, Jinhui Zhang*
+**Zhiwei Wu**, Jinhui Zhang*, Siyi Wei, Duanduan Chen
 
 ---
 
