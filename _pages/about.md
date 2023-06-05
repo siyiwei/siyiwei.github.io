@@ -28,9 +28,12 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+*2023.06.05* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in Computer Methods and Procedures in Biomedicine!
+
 *2022.07.09* &nbsp;🎉🎉 Received an offer of admission (academic graduate student) from the School of Automation, Beijing Institute of Technology!
 
 <!--
+
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
@@ -65,7 +68,7 @@ Kirchhoff rod-based three-dimensional dynamical model and real-time simulation f
 
 ---
 
-Minor Revision
+Accept
 </div>
 </div>
 
