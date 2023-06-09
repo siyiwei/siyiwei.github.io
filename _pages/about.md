@@ -43,8 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-Vision-based intravascular disturbance rejection control of hard-magnetic-soft continuum robot
+Deflecting Control of Magnetic Soft Continuum Robots
 
 International Journal of Water Reasearch
 
@@ -52,23 +51,34 @@ International Journal of Water Reasearch
 
 ---
 
-About to start
+About to finish
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Magnetic Robot for Endovascular Intervention:
+Performance Evaluation
+
+IEEE Transactions on Industrial Electronics
+
+Siyi Wei, Jinhui Zhang, **Zhiwei Wu**, Duanduan Chen
+
+---
+
+Under Review
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/2022paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires
+[Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
 |Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
 
 **Zhiwei Wu**, Jinhui Zhang*, Siyi Wei, Duanduan Chen
-
----
-
-Accept
 </div>
 </div>
 
