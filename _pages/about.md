@@ -128,7 +128,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
-<font color="#FF0000">(Oral)</font>|International Conference on Neural Information Processing||CCF-C||Acceptance rate: 189/633 = 29.9%|
+<font color="#FF0000">(Oral)</font>|International Conference on Neural Information Processing|CCF-C||Acceptance rate: 189/633 = 29.9%|
 
 **Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
 </div>
@@ -150,6 +150,14 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 - *2018.09 - 2021.06*, Master, Automation School, Harbin University of Science and Technology, Harbin.
 - *2014.09 - 2018.06*, Undergraduate, Automation School, Harbin University of Science and Technology, Harbin.
 
+# 💻 Commercialization
+
+- *2021 - 2023*, To facilitate the integration of robotic technology with minimally invasive surgery and improve the quality of patient care, we have applied for some invention patents with the China National Intellectual Property Administration.
+- *CN202310294194.X
+- *CN202310209276.X
+- *CN202310209189.4
+- *CN202210709104.4
+- *CN202210708309.0
 <!--
 # 💬 Invited Talks
 
