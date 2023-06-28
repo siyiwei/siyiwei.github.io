@@ -106,7 +106,7 @@ Under Review
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine |JCR Q1||中科院二区||IF:7.027|
+|Computer Methods and Programs in Biomedicine |JCR Q1||中科院二区|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
@@ -117,7 +117,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [Semi-supervised aortic dissections segmentation: A time-dependent weighted feedback fusion framework](https://www.sciencedirect.com/science/article/abs/pii/S089561112300037X)
 
-|Computerized Medical Imaging and Graphics |JCR Q1||中科院二区||IF:5.578|
+|Computerized Medical Imaging and Graphics |JCR Q1||中科院二区|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
