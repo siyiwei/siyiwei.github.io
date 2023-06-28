@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyi Wei (魏思亿) academic profile"
-description              : "Graduating from arbin University of Science and Technology. <br> Focusing on magnetic robot, robot-assisted surgery, and skill learning."
+description              : "Graduating from harbin University of Science and Technology. <br> Focusing on magnetic robot, robot-assisted surgery, and skill learning."
 repository               : "https://github.com/siyiwei"
 google_scholar_stats_use_cdn : false # True
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/WayneWu0526"
+  github           : "https://github.com/siyiwei"
   google_plus      :
   keybase          :
   instagram        :
