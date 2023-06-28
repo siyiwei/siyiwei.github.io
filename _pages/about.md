@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-[^*2023.06.05* &nbsp;🎉🎉 Congratulations aaon the acceptance of the paper in Computer Methods and Procedures in Biomedicine!]
+<!--*2023.06.05* &nbsp;🎉🎉 Congratulations aaon the acceptance of the paper in Computer Methods and Procedures in Biomedicine!-->
 
 *2021.07.12* &nbsp;🎉🎉 Received an offer of admission (academic doctorate student) from the School of Automation, Beijing Institute of Technology!
 
@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/staytuned.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
@@ -55,7 +55,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/staytuned.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Magnetic Robot for Endovascular Intervention:
@@ -71,7 +71,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/staytuned.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Multimodal Analysis Framework for Establishing Governing Equation of Magnetic Robot Deflection in Percutaneous Coronary Intervention
@@ -86,7 +86,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/staytuned.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Design and Implementation of Soft Continuum Magnetically Actuated Robot for Percutaneous Coronary Intervention
