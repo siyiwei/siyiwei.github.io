@@ -126,10 +126,9 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2020</div><img src='images/2020ICONIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
+<font color="#FF0000">(Oral)</font>[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
-|<font color="#FF0000">(Oral)</font>International Conference on Neural Information Processing |CCF-C| 
-Acceptance rate: 189/633 = 29.9%
+|International Conference on Neural Information Processing |CCF-C| |Acceptance rate: 189/633 = 29.9%|
 
 **Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
 </div>
