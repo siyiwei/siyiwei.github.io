@@ -135,13 +135,13 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
 
 <!--- |Oral presentations (15 minutes)|-->
-# 🎖 Honors and Awards
+<!--- # 🎖 Honors and Awards-->
 
 <!--- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)-->
 <!--- *2021.10* National Scholarship (Undergraduate) (Top 1%).-->
 <!--- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).-->
 <!--- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).-->
-- *2020* Oral presentations (15 minutes, ICONIP-2020).  
+<!---- *2020* Oral presentations (15 minutes, ICONIP-2020).  -->
 
 # 📖 Educations
 
