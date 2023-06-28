@@ -21,7 +21,7 @@ I’m a PhD Candidate at Automation School, Beijing Institute of Technology, and
 
 My research interests include magnetic robot, robot-assisted surgery, and skill learning.
 
-Please contact me via my email for any questions about surgical robotics system (use for PCI or NVI) and magnetic robot:laughing:！
+Please contact me via my email for any questions about surgical robotics system (use for PCI or NVI) and magnetic robot!
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -128,7 +128,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
-|International Conference on Neural Information Processing||Acceptance rate: 189/633 = 29.9%||Oral presentations|
+|International Conference on Neural Information Processing||CCF-C||Acceptance rate: 189/633 = 29.9%||Oral presentations (15 minutes)|
 
 **Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
 </div>
@@ -140,7 +140,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 <!--- *2021.10* National Scholarship (Undergraduate) (Top 1%).-->
 <!--- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).-->
 <!--- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).-->
-- *2020* Oral presentations (15 minutes) (International Conference on Neural Information Processing).  
+- *2020* Oral presentations (15 minutes, ICONIP-2020).  
 
 # 📖 Educations
 
