@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a PhD Candidate at Automation School, Beijing Institute of Technology, and received M.E. degree in automation from Harbin University of Science and Technology, Harbin, China. 
-As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars).
-I also collaborate with <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=_0RZjpIAAAAJ'> Zhiwei Wu (吴志伟) </a> (PhD Candidate) closely.
+I’m a PhD Candidate at Automation School, Beijing Institute of Technology, and received M.E. degree in automation from Harbin University of Science and Technology, Harbin, China. As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhang Jinhui</a> (outstanding young scholars). 
 
 My research interests include magnetic robot, robot-assisted surgery, and skill learning.
 
@@ -47,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
 
-Biocybernetics and Biomedical Engineering
+Biocybernetics and Biomedical Engineering |JCR Q1||中科院二区|
 
 **Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
 
@@ -63,7 +61,7 @@ Under Review
 Magnetic Robot for Endovascular Intervention:
 Performance Evaluation
 
-IEEE Transactions on Industrial Electronics
+IEEE Transactions on Industrial Electronics |JCR Q1||中科院一区Top|
 
 **Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
 
@@ -78,7 +76,7 @@ Under Review
 
 A Multimodal Analysis Framework for Establishing Governing Equation of Magnetic Robot Deflection in Percutaneous Coronary Intervention
 
-Biomedical Signal Processing and Control
+Biomedical Signal Processing and Control |JCR Q1||中科院二区|
 
 **Siyi Wei**, Jinhui Zhang, Duanduan Chen
 
@@ -93,7 +91,7 @@ Under Review
 
 Design and Implementation of Soft Continuum Magnetically Actuated Robot for Percutaneous Coronary Intervention
 
-IEEE Robotics and Automation Letters
+IEEE Robotics and Automation Letters |JCR Q1||中科院二区|
 
 **Siyi Wei**, Zhiwei Wu, Jinhui Zhang, Duanduan Chen
 
@@ -108,7 +106,7 @@ Under Review
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
+|Computer Methods and Programs in Biomedicine |JCR Q1||中科院二区|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
@@ -119,31 +117,31 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [Semi-supervised aortic dissections segmentation: A time-dependent weighted feedback fusion framework](https://www.sciencedirect.com/science/article/abs/pii/S089561112300037X)
 
-|Computerized Medical Imaging and Graphics|06-16-2023|IF:5.578|
+|Computerized Medical Imaging and Graphics |JCR Q1||中科院二区|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/2020ICONIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2020</div><img src='images/2020ICONIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font color="#FF0000">(Oral)</font>[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
+[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
-|International Conference on Neural Information Processing||CCF-C||Acceptance rate: 189/633 = 29.9%|
-<!--|Oral presentations (15 minutes)|-->
+<font color="#FF0000">(Oral)</font>|International Conference on Neural Information Processing||CCF-C||Acceptance rate: 189/633 = 29.9%|
 
 **Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
 </div>
 </div>
 
-<!---# 🎖 Honors and Awards-->
+<!--- |Oral presentations (15 minutes)|-->
+# 🎖 Honors and Awards
 
 <!--- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)-->
 <!--- *2021.10* National Scholarship (Undergraduate) (Top 1%).-->
 <!--- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).-->
 <!--- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).-->
-<!--- *2020* Oral presentations (15 minutes, ICONIP-2020). -->
+- *2020* Oral presentations (15 minutes, ICONIP-2020).  
 
 # 📖 Educations
 
