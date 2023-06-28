@@ -28,9 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-*2023.06.05* &nbsp;🎉🎉 Congratulations aaon the acceptance of the paper in Computer Methods and Procedures in Biomedicine!
+%*2023.06.05* &nbsp;🎉🎉 Congratulations aaon the acceptance of the paper in Computer Methods and Procedures in Biomedicine!
 
-*2022.07.09* &nbsp;🎉🎉 Received an offer of admission (academic graduate student) from the School of Automation, Beijing Institute of Technology!
+*2021.07.12* &nbsp;🎉🎉 Received an offer of admission (academic doctorate student) from the School of Automation, Beijing Institute of Technology!
 
 <!--
 
@@ -40,18 +40,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deflecting Control of Magnetic Soft Continuum Robots
+Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
 
-International Journal of Water Reasearch
+Biocybernetics and Biomedical Engineering
 
-**Zhiwei Wu**, Jinhui Zhang
+**Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
 
 ---
 
-About to finish
+Under Review
 </div>
 </div>
 
@@ -63,7 +63,37 @@ Performance Evaluation
 
 IEEE Transactions on Industrial Electronics
 
-Siyi Wei, Jinhui Zhang, **Zhiwei Wu**, Duanduan Chen
+**Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
+
+---
+
+Under Review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Multimodal Analysis Framework for Establishing Governing Equation of Magnetic Robot Deflection in Percutaneous Coronary Intervention
+
+Biomedical Signal Processing and Control
+
+**Siyi Wei**, Jinhui Zhang, Duanduan Chen
+
+---
+
+Under Review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Design and Implementation of Soft Continuum Magnetically Actuated Robot for Percutaneous Coronary Intervention
+
+IEEE Robotics and Automation Letters
+
+**Siyi Wei**, Zhiwei Wu, Jinhui Zhang, Duanduan Chen
 
 ---
 
@@ -78,33 +108,46 @@ Under Review
 
 |Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
 
-**Zhiwei Wu**, Jinhui Zhang*, Siyi Wei, Duanduan Chen
+Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/2021paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/2023CMIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)
+[Semi-supervised aortic dissections segmentation: A time-dependent weighted feedback fusion framework](https://www.sciencedirect.com/science/article/abs/pii/S089561112300037X)
 
-|IEEE Access|07-20-2021|IF:3.476 |Citations:2|
+|Computerized Medical Imaging and Graphics|06-16-2023|IF:5.578|
 
-**ZHIWEI WU**, HAOSONG PENG*, BIAO HU, AND XIAODONG FENG
+Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/2020ICONIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
+
+|International Conference on Neural Information Processing||Acceptance rate: 189/633 = 29.9%||Oral presentations|
+
+**Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
 </div>
 </div>
 
 # 🎖 Honors and Awards
 
-- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)
-- *2021.10* National Scholarship (Undergraduate) (Top 1%).
-- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).
-- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).
-- *2020.10* National Scholarship ([Undergraduate](https://maifile.cn/dec/d53884217302@doc)) (Top 1%).  
+%- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)
+%- *2021.10* National Scholarship (Undergraduate) (Top 1%).
+%- *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).
+%- *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).
+- *2020* Oral presentations (15 minutes) (International Conference on Neural Information Processing).  
 
 # 📖 Educations
 
-- *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing.
-- *2018.09 - 2022.06*, Undergraduate, College of Information Science and Technology, Beijing University of Chemical Technology, Beijing. 
+- *2021.09 - 2025.06 (now)*, Doctoral candidate, Automation School, Beijing Institute of Technology, Beijing.
+- *2019 - 2021*, Intern Student, State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences, Beijing.
+- *2018.09 - 2021.06*, Master, Automation School, Harbin University of Science and Technology, Harbin.
+- *2014.09 - 2018.06*, Undergraduate, Automation School, Harbin University of Science and Technology, Harbin.
 
 <!--
 # 💬 Invited Talks
@@ -115,7 +158,7 @@ Under Review
 
 # 💻 Internships
 
-- *2022.07 - 2022.09*, Seaga Smart Tech., Fujian, China.
+%- *2022.07 - 2022.09*, Seaga Smart Tech., Fujian, China.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
