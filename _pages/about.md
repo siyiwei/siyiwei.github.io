@@ -128,7 +128,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
-<font color="#FF0000">(Oral)</font> International Conference on Neural Information Processing |CCF-C| 
+|<font color="#FF0000">(Oral)</font>International Conference on Neural Information Processing |CCF-C| 
 Acceptance rate: 189/633 = 29.9%
 
 **Siyi Wei**, Xiaobo Sun, Xiaohu Zhou*, Zengguang Hou
