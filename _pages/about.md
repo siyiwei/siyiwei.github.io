@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
 
-Biocybernetics and Biomedical Engineering
+Biocybernetics and Biomedical Engineering |JCR Q1||中科院二区|
 
 **Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
 
@@ -61,8 +61,7 @@ Under Review
 Magnetic Robot for Endovascular Intervention:
 Performance Evaluation
 
-IEEE Transactions on Industrial Electronics
-
+IEEE Transactions on Industrial Electronics |JCR Q1||中科院一区Top|
 **Siyi Wei**, Jinhui Zhang, Zhiwei Wu, Duanduan Chen
 
 ---
@@ -76,7 +75,7 @@ Under Review
 
 A Multimodal Analysis Framework for Establishing Governing Equation of Magnetic Robot Deflection in Percutaneous Coronary Intervention
 
-Biomedical Signal Processing and Control
+Biomedical Signal Processing and Control |JCR Q1||中科院二区|
 
 **Siyi Wei**, Jinhui Zhang, Duanduan Chen
 
@@ -91,7 +90,7 @@ Under Review
 
 Design and Implementation of Soft Continuum Magnetically Actuated Robot for Percutaneous Coronary Intervention
 
-IEEE Robotics and Automation Letters
+IEEE Robotics and Automation Letters |JCR Q1||中科院二区|
 
 **Siyi Wei**, Zhiwei Wu, Jinhui Zhang, Duanduan Chen
 
@@ -106,7 +105,7 @@ Under Review
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
+|Computer Methods and Programs in Biomedicine |JCR Q1||中科院二区||01-16-2023|IF:7.027|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
@@ -117,7 +116,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 [Semi-supervised aortic dissections segmentation: A time-dependent weighted feedback fusion framework](https://www.sciencedirect.com/science/article/abs/pii/S089561112300037X)
 
-|Computerized Medical Imaging and Graphics|06-16-2023|IF:5.578|
+|Computerized Medical Imaging and Graphics |JCR Q1||中科院二区||06-16-2023|IF:5.578|
 
 Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
