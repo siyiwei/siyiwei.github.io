@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwei Wu (吴志伟) academic profile"
+title                    : "Siyi Wei (魏思亿) academic profile"
 description              : "Graduating from Beijing University of Chemical Technology. <br> Focusing on medical robot, ADRC, and MPC."
 repository               : "https://github.com/WayneWu0526"
 google_scholar_stats_use_cdn : false # True
