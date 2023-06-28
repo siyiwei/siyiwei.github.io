@@ -128,7 +128,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP</div><img src='images/2020ICONIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font color="#FF0000">(Oral)</font> [A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
+<font color="#FF0000">(Oral)</font>[A Novel Vascular Robotic System: Performance Evaluation](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_61)
 
 |International Conference on Neural Information Processing||CCF-C||Acceptance rate: 189/633 = 29.9%|<!--|Oral presentations (15 minutes)|-->
 
@@ -136,7 +136,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!---# 🎖 Honors and Awards-->
 
 <!--- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)-->
 <!--- *2021.10* National Scholarship (Undergraduate) (Top 1%).-->
