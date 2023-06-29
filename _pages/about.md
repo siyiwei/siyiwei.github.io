@@ -20,8 +20,7 @@ redirect_from:
 I’m a PhD Candidate at Automation School, Beijing Institute of Technology, and received M.E. degree in automation from Harbin University of Science and Technology, Harbin, China. As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhang Jinhui</a> (outstanding young scholars). 
 I also collaborate with <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=_0RZjpIAAAAJ'>Zhiwei Wu (吴志伟) </a>closely.
 
-My research interests include magnetic robot, robot-assisted surgery, and skill learning.
-Please contact me via my email for any questions about surgical robotics system (use for PCI or NVI) and magnetic robot!
+My research interests include magnetic robot, robot-assisted surgery, and skill learning. Please contact me via my email for any questions about surgical robotics system (use for PCI or NVI) and magnetic robot!
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
