@@ -118,7 +118,7 @@ Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
 
 |Computerized Medical Imaging and Graphics |JCR Q1||中科院二区|
 
-Zhiwei Wu, Jinhui Zhang*, **Siyi Wei**, Duanduan Chen
+Jinhui Zhang*, Jian Liu, **Siyi Wei**, Duanduan Chen
 </div>
 </div>
 
